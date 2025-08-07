@@ -1,3 +1,5 @@
+Data source from:https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020/data
+
 I built an interactive Excel dashboard to analyze sales performance.
 This project helped me connect business operations knowledge with data analysis skills.
 
